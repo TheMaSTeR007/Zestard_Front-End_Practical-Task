@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+footer {
+  position: relative;
+  top: 500px;
+}
